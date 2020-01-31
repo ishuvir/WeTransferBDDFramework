@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="59.145056">
+<testcase classname="WeTransfer UploadFile Automation" name="WeTransfer File_Upload &amp; Creation of Link Transfer" time="59.145056">
+<system-out><![CDATA[Given user is already on WeTransfer page....................................passed
+When T&C screen is displayed................................................passed
+Then User clicks on Accept button...........................................passed
+Then User upload a file from local system...................................passed
+Then User select Get Transfer link option...................................passed
+Then User saves the Transfer link...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
